@@ -1,0 +1,57 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+bower_components/
+
+# Build directories
+/dist
+/build
+
+# Environment files
+.env
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
+
+# npm and Yarn cache
+.npm/
+.yarn/
+
+# Docker files
+.docker/
+
+# PM2 logs
+pids/
+*.pid
+*.seed
+
+# AWS SAM/Serverless directories
+.serverless/
+.aws-sam/
+
+# TypeScript build (if you're using TypeScript)
+*.tsbuildinfo
+
+# Database files
+*.sqlite
+*.db
+
+# Next.js (if using for SSR or APIs)
+.next/
